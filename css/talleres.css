@@ -1,0 +1,67 @@
+﻿/*@import url("/css/base.css"); */
+
+/*body {
+	font-family: Georgia, Times, serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal; 
+}
+
+h1 {
+	font-size: 48pt; 
+	margin: 10px; 
+	padding: 10px; 
+	border-bottom: thin solid black; 
+}
+
+h2 {
+	font-size: 24pt; 
+	margin: 20px;
+}
+
+p, li {
+	font-size: 18pt; 
+	margin: 20px; 
+}
+
+ul {
+	column-count: 2; 
+	-webkit-column-count: 2; 
+	-moz-column-count: 2;
+	column-gap: 10px; 
+	-webkit-column-gap: 10px; 
+	-moz-column-gap: 10px; 
+}
+
+ul ul {
+	column-count: 1; 
+	-webkit-column-count: 1; 
+	-moz-column-count: 1;
+}
+#detalles { 
+	margin: 20px; 
+}
+
+.blurb {
+	margin: 10px 15%; 
+	text-align: center;
+	font-style: italic;
+}
+
+*/
+
+p {
+	text-indent: 0;
+	padding: 5px;
+}
+
+.textos {
+	font-size: 16pt;
+	font-variant: small-caps;
+	display: none;
+}
+
+h4 {
+	padding-bottom: 1em;
+}

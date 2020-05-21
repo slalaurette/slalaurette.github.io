@@ -1,0 +1,81 @@
+﻿.blurb {
+	font-size: 150%;
+	font-variant: small-caps;
+	padding-bottom: 1em;
+	text-indent: 0; 
+}
+.active {
+	background-color: silver;
+	color: black;
+}
+.inactive {
+	background-color: #333333;
+	color: white;
+}
+.inactive:hover {
+	background-color: gray;
+}
+/*.leftcolumn {
+	width: 22%;
+	height: 100%; 
+	overflow: hidden; 
+	padding: 20px 0px;
+}
+*/
+#contenido {
+	background-color: silver;
+	height: 100%; 
+	overflow: hidden; 
+	padding: 30px;
+}
+.tab {
+  border-style: dotted none dotted dotted;
+  border-color: gray;
+  border-width: 1px;
+  padding: 10px;
+  min-height: 30px;
+  text-align: right;
+  font-size: 14pt;
+}
+.hotcover {
+	display: none; 
+	width: 100%;
+	clear: both;
+	text-align: right;
+}
+.hotcover img {
+	padding: 10px; /* no funciona */
+}
+.inactive:hover .hotcover {
+	display: block;
+}
+.tab.inactive a {
+	color: white;
+}
+
+.libro {
+	width: 90%; 
+	margin: 0 auto;
+	padding: 20px; 
+	border-top: thin dotted gray; 
+	display: flex;
+}
+.alt {
+	/*background-color: #EBFAFE; */
+}
+.tapa {
+	padding: 10px; 
+	text-align: center; 
+	flex: 0 0 300px; 
+	display: flex; 
+	flex-flow: column;
+	justify-content: center;
+}
+.desc { 
+	padding: 30px; 
+	flex: 0 1 auto; 
+}
+.reseña {
+	margin-left: 30px; 
+	text-indent: 0; 
+}

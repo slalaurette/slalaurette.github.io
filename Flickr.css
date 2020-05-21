@@ -1,0 +1,13 @@
+.Flickr-left {
+    float: left;
+    font-size: 80%;
+    text-align: center; 
+    margin: 5px; 
+}
+
+.Flickr {
+    float: right;
+    font-size: 80%;
+    text-align: center; 
+    margin: 5px; 
+}
