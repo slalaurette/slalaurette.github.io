@@ -27,13 +27,15 @@ table, td {
 	border-width: 1px; 
 }
 td:hover { 
-	background-color: #000033;
+	background-color: #003366;
 }
 td a, td a:visited {
 	text-decoration: none;
 	color: #0099FF;
 }
-
+td a:active {
+	background-color: #003366;
+}
 @keyframes blink {  
     0% { color: #00CCFF; }
     100% { color: black; }
