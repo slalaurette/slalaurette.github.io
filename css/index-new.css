@@ -14,7 +14,13 @@ body {
 	height: 350px; 
 	/*width: 100%; */
 }
-
+.flexbox::after {
+  content: "";
+  flex: auto;
+}
+#main {
+	margin: 30px 10px; 
+}
 #friso_libros {
 	clear: both; 
 	display: flex; 
@@ -32,17 +38,18 @@ body {
 #friso_libros a, a:link, a:hover, a:visited { color: black; }
 
 .cuadro { 
-	width: 600px; 
+	width: 600px;
 	height: 320px;
 	display: flex;
 	flex-flow: column;
-	flex: 1 0 180px;
-	margin: auto; 
+	flex: 0 0 160px;
+	margin: 5px; 
 	padding: 8px;
 /*	min-width: 0;*/
 /*	float: left;*/
 }
 #soy { flex: 1 0 220px; }
+#escribi { flex: 1 0 240px; }
 
 .borde {
 	border: thin solid black; 
@@ -138,6 +145,13 @@ p {
 .friso {
 	flex: 1 1 auto; 
 	display: inline-block;
+	/*vertical-align: bottom; */
+	margin: auto;
+}
+
+.friso2 {
+	display: inline-block;
+	height: 300px;
 	/*vertical-align: bottom; */
 	margin: auto;
 }
