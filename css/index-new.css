@@ -39,16 +39,20 @@ body {
 
 .cuadro { 
 	width: 600px;
-	height: 320px;
+/*	height: 320px;*/
 	display: flex;
 	flex-flow: column;
-	flex: 0 0 160px;
+	flex: 1 0 160px;
 	margin: 5px; 
 	padding: 8px;
 /*	min-width: 0;*/
 /*	float: left;*/
 }
-#soy { flex: 1 0 220px; }
+.cuadro img {
+	height: 100%;	
+}
+
+#soy { flex: 1 0 200px; }
 #escribi { flex: 1 0 240px; }
 
 .borde {
@@ -184,13 +188,7 @@ p {
 }
 
 #promo_zombies {
-/*	margin: 0px; */
-/*	padding: 30px; */
-	display: flex; 
-	flex-flow: column;
 	justify-content: center;
-	margin: auto;
-	flex: 1 0 150px;
 	text-align: center; 
 	color: #0099FF; 
 	background-color: black;
