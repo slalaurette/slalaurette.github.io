@@ -24,6 +24,7 @@ body {
 }
 #spacer {
 	flex: 20 0 10px; 
+	border: 0px;
 }
 #friso_libros a, a:link, a:hover, a:visited { color: black; }
 
