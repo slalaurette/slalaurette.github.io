@@ -13,12 +13,12 @@ body {
 	justify-content: space-around;
 	/*width: 100%; */
 }
-/*
+
 .flexbox::after {
   content: "";
   flex: auto;
 }
-*/
+
 #main {
 	margin: 30px 10px; 
 }
