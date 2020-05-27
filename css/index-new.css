@@ -27,10 +27,12 @@ body {
 .cuadro:nth-of-type(odd) {
 	border: thin solid black; 
 }
+/*
 .flexbox::after {
   content: "";
   flex: auto;
 }
+*/
 #main {
 	margin: 30px 10px; 
 }
