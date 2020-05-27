@@ -5,23 +5,13 @@ body {
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
-.box {
-	display: inline-block; 
-	height: 270px; 
-	max-width: 300px;
-	padding: 3px;
-	margin: 3px; 
-}
-.box img {
-	height: 100%;
-}
 .flexbox {
 	clear: both; 
 	display: flex; 
 	flex-flow: row wrap;
 /*	align-items: center;*/
 	justify-content: space-around;
-	height: 350px; 
+/*	height: 350px; */
 	/*width: 100%; */
 }
 .cuadro:nth-of-type(odd) {
