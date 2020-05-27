@@ -25,12 +25,11 @@ body {
 #friso_libros a, a:link, a:hover, a:visited { color: black; }
 
 .cuadro { 
-	width: 600px;
 /*	height: 320px;*/
 	display: flex;
 	align-items: flex-start;
 	flex-flow: column;
-	flex: 1 0 222px;
+	flex: 1 0 100px;
 	margin: 5px; 
 	padding: 8px;
 	height: 100%;
