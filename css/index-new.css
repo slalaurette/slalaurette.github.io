@@ -11,7 +11,6 @@ body {
 	flex-flow: row wrap;
 /*	align-items: center;*/
 	justify-content: space-around;
-/*	height: 350px; */
 	/*width: 100%; */
 }
 /*
@@ -22,20 +21,6 @@ body {
 */
 #main {
 	margin: 30px 10px; 
-}
-#friso_libros {
-	clear: both; 
-	display: flex; 
-	height: 250px; 
-	flex-flow: row wrap;
-	justify-content: space-around; 
-	padding: 10px;
-	margin: auto;
-/*	float: right; */
-/*	width: 74%; */
-/*	margin: 0px; 
-	padding: 1em;
-*/
 }
 #friso_libros a, a:link, a:hover, a:visited { color: black; }
 
@@ -48,11 +33,12 @@ body {
 	flex: 1 1 100px;
 	margin: 5px; 
 	padding: 8px;
+	height: 100%;
 /*	min-width: 0;*/
 /*	float: left;*/
 }
 .cuadro img {
-	height: 300px; 
+	height: 300px;
 }
 .cuadro:nth-of-type(odd) {
 	border: thin solid black; 
@@ -60,9 +46,6 @@ body {
 
 #soy { flex: 1 0 200px; }
 #escribi { flex: 1 0 240px; }
-
-.borde {
-}
 
 /*a, a:link, a:visited, a:hover { color: #333333; }*/
 
