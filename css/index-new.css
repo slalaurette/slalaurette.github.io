@@ -62,7 +62,7 @@ body {
 /*a, a:link, a:visited, a:hover { color: #333333; }*/
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Cambria, Bitter, Georgia, "Times New Roman", Times, serif;
+	font-family: Bitter, Cambria, Georgia , "Times New Roman", Times, serif;
 	color: #333333; 
 	text-align: left;
 	margin: 0px;
