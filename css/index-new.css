@@ -14,9 +14,6 @@ body {
 /*	height: 350px; */
 	/*width: 100%; */
 }
-.cuadro:nth-of-type(odd) {
-	border: thin solid black; 
-}
 /*
 .flexbox::after {
   content: "";
@@ -48,7 +45,7 @@ body {
 	display: flex;
 	align-items: flex-start;
 	flex-flow: column;
-	flex: 1 1 10px;
+	flex: 1 1 60px;
 	margin: 5px; 
 	padding: 8px;
 /*	min-width: 0;*/
@@ -56,6 +53,9 @@ body {
 }
 .cuadro img {
 	height: 300px; 
+}
+.cuadro:nth-of-type(odd) {
+	border: thin solid black; 
 }
 
 #soy { flex: 1 0 200px; }
