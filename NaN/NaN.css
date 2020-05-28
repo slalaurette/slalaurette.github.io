@@ -12,7 +12,7 @@ h1, h2, h3, h4 {
 }
 h1 {
 	font-size: 150%;
-	margin: 50px; 
+	margin: 2em; 
 }
 
 a {
@@ -20,7 +20,7 @@ a {
 	color: #00CCFF;
 }
 
-table, td {
+td {
 	font-size: 85%;
 	text-align: center;
 	border-color: #0033CC;
@@ -50,6 +50,33 @@ td a:active {
     animation: blink 1s linear infinite;
 } 
 
+.hmenu {
+	width: 100;
+	display: flex; 
+	flex-flow: row;
+	align-items: center;
+	justify-content: space-around;
+}
+.menuitem {
+	display: flex; 
+	flex-flow: column;
+	flex: 1 0 10px;
+	align-items: center;
+	text-align: center;
+	font-size: 85%;
+	margin: 6px 12px; 
+}
+.menuitem:hover {
+	background-color: #003366;
+}
+.menuitem a {
+	color: #0099FF;
+}
+.firma {
+	text-align: center;
+	font-size: 85%; 
+	margin: 3em;
+}
 #splash {
 	position:absolute;
 	width:300px;
