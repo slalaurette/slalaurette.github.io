@@ -47,7 +47,7 @@ body {
 
 #soy { flex: 1 0 200px; }
 #escribi { flex: 1 0 240px; }
-#antologias { flex: 1 0 300px; }
+#antologias { flex: 1 0 222px; }
 
 /*a, a:link, a:visited, a:hover { color: #333333; }*/
 
@@ -137,36 +137,6 @@ p {
 	vertical-align: absmiddle;
 }
 
-.friso {
-	flex: 1 1 auto; 
-	display: inline-block;
-	/*vertical-align: bottom; */
-	margin: auto;
-}
-
-.friso2 {
-	display: inline-block;
-	height: 300px;
-	/*vertical-align: bottom; */
-	margin: auto;
-}
-
-.sideways {
-	font-family: "Titillium Web", Mayfarling;
-	font-weight:bold; 
-	display: inline-block;
-	flex: 1 1 auto; 
-	height: 100%; 
-	transform:rotate(-90deg);
-	/*transform-origin: left top;*/
-	/*color: white; 
-	background-color: black; 
-	*/text-align:left; 
-	width:1em;
-	margin-left: 10px;
-	margin-bottom: 5px; 
-}
-
 #promo_furiarreciente {
 	margin: auto;
 	text-align: center; 
@@ -178,16 +148,17 @@ p {
 	/*font-size: 24pt	; */
 }
 
-#promo_zombies {
+#NaN {
 	justify-content: center;
 	text-align: center; 
 	color: #0099FF; 
+	flex: 1 1 100px;
 	background-color: black;
 	font-family: "OCR A Extended", "Ubuntu Mono", "Courier New", Courier, monospace; 
 	font-weight: bold; 
 	font-size: 24pt	; 
 }
-#promo_zombies a, a:link, a:visited, a:hover { color: #0099FF; }
+#NaN a, a:link, a:visited, a:hover { color: #0099FF; }
 
 .zombies {
 	margin: auto; 
