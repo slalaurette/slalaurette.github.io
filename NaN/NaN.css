@@ -19,23 +19,45 @@ a {
 	text-decoration: none;
 	color: #00CCFF;
 }
-
-td {
-	font-size: 85%;
-	text-align: center;
-	border-color: #0033CC;
-	border-width: 1px; 
+p a:hover, p a:active {
+	background-color: #003366;
+	padding: 6px; 
 }
-td:hover { 
+
+/* MENÚS */
+.hmenu {
+	width: 100;
+	display: flex; 
+	flex-flow: row;
+	align-items: center;
+	justify-content: space-around;
+}
+.vmenu {
+	height: 100%;
+	display: flex; 
+	flex-flow: column;
+	align-items: center;
+	justify-content: space-around;
+}
+.menuitem {
+	display: flex; 
+	flex-flow: column;
+	flex: 1 0 10px;
+	align-items: center;
+	text-align: center;
+	font-size: 85%;
+	margin: 6px 12px; 
+}
+.vmenu menuitem {
+	flew-flow: row; 
+}
+.menuitem:hover {
 	background-color: #003366;
 }
-td a, td a:visited {
-	text-decoration: none;
+.menuitem a {
 	color: #0099FF;
 }
-td a:active {
-	background-color: #003366;
-}
+
 @keyframes blink {  
     0% { color: #00CCFF; }
     100% { color: black; }
@@ -50,28 +72,6 @@ td a:active {
     animation: blink 1s linear infinite;
 } 
 
-.hmenu {
-	width: 100;
-	display: flex; 
-	flex-flow: row;
-	align-items: center;
-	justify-content: space-around;
-}
-.menuitem {
-	display: flex; 
-	flex-flow: column;
-	flex: 1 0 10px;
-	align-items: center;
-	text-align: center;
-	font-size: 85%;
-	margin: 6px 12px; 
-}
-.menuitem:hover {
-	background-color: #003366;
-}
-.menuitem a {
-	color: #0099FF;
-}
 .firma {
 	text-align: center;
 	font-size: 85%; 
