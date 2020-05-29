@@ -1,0 +1,98 @@
+﻿/*@import url("/webfonts.css"); */
+
+body {
+	font-family: "OCR A Extended", "Ubuntu Mono", "Courier New", Courier, mono; 
+	font-size: 20pt;
+	color: #0099FF;
+	background-color: #000000;
+}
+
+h1, h2, h3, h4 {
+	text-align: center; 
+}
+h1 {
+	font-size: 150%;
+	margin: 2em; 
+}
+
+a {
+	text-decoration: none;
+	color: #00CCFF;
+}
+p a:hover, p a:active {
+	background-color: #003366;
+	padding: 6px; 
+}
+
+/* MENÚS */
+.hmenu {
+	width: 100;
+	display: flex; 
+	flex-flow: row;
+	align-items: center;
+	justify-content: space-around;
+}
+.vmenu {
+	height: 100%;
+	display: flex; 
+	flex-flow: column;
+	align-items: center;
+	justify-content: space-around;
+}
+.menuitem {
+	display: flex; 
+	flex-flow: column;
+	flex: 1 0 10px;
+	align-items: center;
+	text-align: center;
+	font-size: 85%;
+	margin: 6px 12px; 
+}
+.vmenu menuitem {
+	flew-flow: row; 
+}
+.menuitem:hover {
+	background-color: #003366;
+}
+.menuitem a {
+	color: #0099FF;
+}
+
+@keyframes blink {  
+    0% { color: #00CCFF; }
+    100% { color: black; }
+}
+@-webkit-keyframes blink {
+    0% { color: #00CCFF; }
+    100% { color: black; }
+}
+.blink {
+    -webkit-animation: blink 1s linear infinite;
+    -moz-animation: blink 1s linear infinite;
+    animation: blink 1s linear infinite;
+} 
+
+.firma {
+	text-align: center;
+	font-size: 85%; 
+	margin: 3em;
+}
+#splash {
+	position:absolute;
+	width:300px;
+	height:300px;
+	z-index:15;
+	top:50%;
+	left:50%;
+	margin:-150px 0 0 -150px;
+	text-align: center; 
+	vertical-align: middle;
+}
+
+	::-webkit-scrollbar { width: 10px; height: 10px;  }
+	::-webkit-scrollbar-button {  background-color: #0033CC; }
+	::-webkit-scrollbar-track {  background-color: #0099FF;}
+	::-webkit-scrollbar-track-piece { background-color: #000033;}
+	::-webkit-scrollbar-thumb { height: 50px; background-color: #0033CC; }
+	::-webkit-scrollbar-corner { background-color: #0033CC;}}
+	::-webkit-resizer { background-color: #666;}

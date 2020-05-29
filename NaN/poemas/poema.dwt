@@ -1,0 +1,25 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Not a Number _</title>
+<!-- #EndEditable -->
+<link href="../NaN.css" rel="stylesheet" type="text/css">
+<base target="_blank"> 
+</head>
+
+<body>
+<div id="main-content">
+<!-- #BeginEditable "título" -->
+<h1>Título</h1>
+<!-- #EndEditable -->
+<!-- #BeginEditable "poema" -->
+<p>
+Texto del poema<br>
+</p>
+<!-- #EndEditable -->
+<p class="firma">Sebasti&aacute;n Lalaurette</p>
+<p align="right"><a href="../index.html" target="_top">NaN <span class="blink">_</span></a> </p>
+
+</div>
+</body>
+</html>

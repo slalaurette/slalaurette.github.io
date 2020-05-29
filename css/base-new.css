@@ -1,0 +1,95 @@
+﻿@import url("/webfonts.css"); 
+
+body {
+	color:#333333; /*background:#666666 url(fondotxt.gif) fixed; */
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:12pt; 
+	margin-left:2%; margin-right: 2%
+}
+
+h1, h2, h3, h4 { 
+	color:#000000; 
+	font-family: "Traveling Typewriter", Georgia, "Times New Roman", Times, serif; 
+	font-weight: normal;
+}
+
+ul, ol, li { 
+	font-size: 100%; 
+	text-align: left;
+}
+li { margin-top: 5px; }
+
+img { max-width: 100%; }
+
+.foto-inicio {
+	float: left;
+	margin-right: 20px; 
+	margin-bottom: 15px; 
+	max-width: 60%; 
+}
+.foto-final {
+	float: right;
+	margin-left: 20px; 
+	margin-bottom: 15px; 
+	max-width: 60%; 
+}
+
+.una_columna {
+	width: 70%; 
+	margin: auto;
+	text-align: justify;
+}
+
+.dos_columnas {
+	width: 70%; 
+	margin: auto;
+	column-count: 2; 
+	column-gap: 2em; 
+	-moz-column-count: 2; 
+	-moz-column-gap: 2em; 
+	-webkit-column-count: 2; 
+	-webkit-column-gap: 2em; 
+	text-align: justify;
+}
+
+.tres_columnas {
+	width: 90%; 
+	margin: auto;
+	column-count: 3; 
+	column-gap: 2em; 
+	-moz-column-count: 3; 
+	-moz-column-gap: 2em; 
+	-webkit-column-count: 3; 
+	-webkit-column-gap: 2em; 
+	text-align: justify;
+}
+
+.subtitulo {
+	text-align: left;
+	font-size: 125%; 
+	font-weight: bold;
+}
+
+.firma {
+	font-weight: bold; 
+	font-style: italic; 
+	text-align:right;
+	margin-top: 20px;
+}
+
+.fecha {
+	text-align: right; 
+/*	font-family: Merriweather, Georgia, "Times New Roman", Times, serif; */
+	font-size: 20pt;
+}
+
+.AdSense-left { 
+	float: left;
+	margin-right: 10px; 
+	margin-bottom: 10px; 
+}
+.AdSense-right { 
+	float: right;
+	margin-left: 10px; 
+	margin-bottom: 10px; 
+}

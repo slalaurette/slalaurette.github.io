@@ -1,0 +1,73 @@
+@import url("/css/base.css"); 
+
+body {
+	color: #333333; 
+}
+
+a, a:link, a:visited, a:hover { color: #000000; }
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Traveling Typewriter", "Gentium Book", Teletype, "Sorts Mill Goudy", Georgia, "Times New Roman", Times, serif;
+	color: #333333; 
+	text-align: left;
+	margin: 0px;
+	padding: 0px; 
+	font-weight: normal; 
+	border-bottom: none;
+	/*margin-bottom: 5px; */
+}
+
+h1 {
+	font-size: 48pt;
+}
+
+h2 {
+	font-size: 24pt;
+}
+
+h3 {
+	font-size: 36pt;
+	margin-bottom: 15px; 
+}
+
+h4 {
+	font-size: 18pt;
+	font-style: italic;
+}
+
+h5 {
+	font-size: 16pt;
+	margin-top: 10px; 
+	border-top: thin dotted; 
+}
+
+h6 {
+	font-size: 12pt;
+}
+
+.cuadro { 
+	width: 22%; 
+	margin: 5px; 
+	padding: 10px;
+	float: left;
+}
+.cuadro a:hover { font-style: italic; }
+
+.linkito {
+/*	font-family: "Day Roman", Georgia, "Times New Roman", Times, serif;*/
+	font-size: 8pt;
+	font-variant: normal;
+	color: #000000;
+}
+
+.thumbnail {
+	height: 180px;
+	display: block;
+	vertical-align: absmiddle;
+}
+
+.friso {
+	display: inline-block; 
+	vertical-align: middle; 
+	margin: 0px 10px; 
+}

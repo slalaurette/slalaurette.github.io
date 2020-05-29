@@ -1,0 +1,558 @@
+[09-Jun-2010 16:31:04] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[09-Jun-2010 16:32:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/listados.php on line 20
+[09-Jun-2010 16:32:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/listados.php on line 20
+[09-Jun-2010 16:32:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 21
+[09-Jun-2010 16:43:37] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/bit/public_html/agenda/func.php on line 25
+[09-Jun-2010 16:43:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/bit/public_html/agenda/func.php on line 25
+[09-Jun-2010 16:44:16] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/bit/public_html/agenda/func.php on line 25
+[09-Jun-2010 16:44:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/bit/public_html/agenda/func.php on line 25
+[09-Jun-2010 16:47:02] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/bit/public_html/agenda/func.php on line 26
+[09-Jun-2010 16:47:41] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bit/public_html/agenda/func.php on line 28
+[09-Jun-2010 16:49:40] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bit/public_html/agenda/func.php on line 29
+[09-Jun-2010 16:49:43] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bit/public_html/agenda/func.php on line 29
+[09-Jun-2010 16:51:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bit/public_html/agenda/func.php on line 29
+[09-Jun-2010 16:51:44] PHP Parse error:  syntax error, unexpected T_ELSE, expecting ';' in /home/bit/public_html/agenda/func.php on line 31
+[09-Jun-2010 16:52:47] PHP Parse error:  syntax error, unexpected '}' in /home/bit/public_html/agenda/func.php on line 37
+[10-Jun-2010 07:57:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/tablas.php:83) in /home/bit/public_html/agenda/func.php on line 14
+[11-Jun-2010 17:39:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/tablas.php:83) in /home/bit/public_html/agenda/func.php on line 14
+[12-Jun-2010 09:34:17] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:34:17] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:34:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:34:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:34:17] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 26
+[12-Jun-2010 09:42:48] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:42:48] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:42:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:42:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:42:48] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 26
+[12-Jun-2010 09:42:52] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[12-Jun-2010 09:43:08] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:43:08] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:43:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:43:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:43:08] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 26
+[12-Jun-2010 09:47:54] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[12-Jun-2010 09:48:08] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:48:08] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 23
+[12-Jun-2010 09:48:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:48:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 25
+[12-Jun-2010 09:48:08] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 26
+[12-Jun-2010 10:02:37] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[12-Jun-2010 10:02:43] PHP Parse error:  syntax error, unexpected '{' in /home/bit/public_html/agenda/listados.php on line 25
+[12-Jun-2010 10:03:45] PHP Parse error:  syntax error, unexpected '{' in /home/bit/public_html/agenda/listados.php on line 25
+[12-Jun-2010 10:03:47] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[12-Jun-2010 10:03:55] PHP Parse error:  syntax error, unexpected '{' in /home/bit/public_html/agenda/listados.php on line 25
+[12-Jun-2010 10:27:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 22
+[12-Jun-2010 10:27:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 24
+[12-Jun-2010 13:15:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/tablas.php:83) in /home/bit/public_html/agenda/func.php on line 25
+[12-Jun-2010 13:16:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 22
+[12-Jun-2010 13:16:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 24
+[12-Jun-2010 13:36:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/tablas.php:83) in /home/bit/public_html/agenda/func.php on line 25
+[12-Jun-2010 13:59:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/tablas.php:83) in /home/bit/public_html/agenda/func.php on line 25
+[13-Jun-2010 15:26:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 22
+[13-Jun-2010 15:26:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 24
+[13-Jun-2010 16:06:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 22
+[13-Jun-2010 16:06:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 24
+[13-Jun-2010 16:27:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/tablas.php:83) in /home/bit/public_html/agenda/func.php on line 25
+[13-Jun-2010 16:59:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 22
+[13-Jun-2010 16:59:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 24
+[13-Jun-2010 17:22:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 22
+[13-Jun-2010 17:22:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 24
+[13-Jun-2010 17:24:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 23
+[13-Jun-2010 17:24:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 25
+[13-Jun-2010 17:24:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 23
+[13-Jun-2010 17:24:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 25
+[13-Jun-2010 17:40:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 23
+[13-Jun-2010 17:40:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/listados.php on line 25
+[13-Jun-2010 17:44:48] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 23
+[13-Jun-2010 17:44:48] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 23
+[13-Jun-2010 17:44:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/cntAdd.php on line 25
+[13-Jun-2010 17:44:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 25
+[13-Jun-2010 17:44:48] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/bit/public_html/agenda/cntAdd.php on line 26
+[14-Jun-2010 18:12:43] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[15-Jun-2010 16:02:59] PHP Parse error:  syntax error, unexpected '<' in /home/bit/public_html/agenda/listados.php on line 34
+[15-Jun-2010 16:14:02] PHP Fatal error:  Function name must be a string in /home/bit/public_html/agenda/cntDel.php on line 7
+[15-Jun-2010 16:17:31] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[15-Jun-2010 16:20:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:10) in /home/bit/public_html/agenda/func.php on line 25
+[15-Jun-2010 17:22:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:12) in /home/bit/public_html/agenda/func.php on line 25
+[15-Jun-2010 17:28:58] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:29:26] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:29:27] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:29:30] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:29:32] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:29:33] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:29:33] PHP Parse error:  syntax error, unexpected T_PRINT in /home/bit/public_html/agenda/func.php on line 20
+[15-Jun-2010 17:31:06] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[15-Jun-2010 17:32:44] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[15-Jun-2010 17:35:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 30
+[15-Jun-2010 17:35:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 30
+[15-Jun-2010 17:35:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 30
+[15-Jun-2010 17:36:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 30
+[15-Jun-2010 17:36:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 30
+[15-Jun-2010 17:37:01] PHP Warning:  Missing argument 1 for cntEditForm(), called in /home/bit/public_html/agenda/contactos.php on line 29 and defined in /home/bit/public_html/agenda/func.php on line 10
+[16-Jun-2010 12:48:19] PHP Fatal error:  Call to undefined function  cntdellink() in /home/bit/public_html/agenda/listados.php on line 30
+[16-Jun-2010 13:37:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntEdit.php:19) in /home/bit/public_html/agenda/func.php on line 72
+[16-Jun-2010 15:11:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntEdit.php:19) in /home/bit/public_html/agenda/func.php on line 88
+[16-Jun-2010 15:40:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntEdit.php:19) in /home/bit/public_html/agenda/func.php on line 88
+[16-Jun-2010 15:41:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/func.php on line 42
+[16-Jun-2010 15:43:38] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:44:27] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:44:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:52:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:53:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:53:51] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:54:36] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:54:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bit/public_html/agenda/func_html.php on line 5
+[16-Jun-2010 15:56:10] PHP Fatal error:  Cannot redeclare p() (previously declared in /home/bit/public_html/agenda/func.php:103) in /home/bit/public_html/agenda/func_html.php on line 7
+[16-Jun-2010 15:57:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntEdit.php:11) in /home/bit/public_html/agenda/func.php on line 71
+[16-Jun-2010 16:01:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntEdit.php:19) in /home/bit/public_html/agenda/func.php on line 71
+[16-Jun-2010 17:51:42] PHP Parse error:  syntax error, unexpected '}' in /home/bit/public_html/agenda/cntUpdate.php on line 21
+[16-Jun-2010 17:52:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:19) in /home/bit/public_html/agenda/cntUpdate.php on line 23
+[16-Jun-2010 17:53:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:19) in /home/bit/public_html/agenda/cntUpdate.php on line 23
+[16-Jun-2010 17:55:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:19) in /home/bit/public_html/agenda/cntUpdate.php on line 23
+[16-Jun-2010 17:55:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:19) in /home/bit/public_html/agenda/cntUpdate.php on line 23
+[16-Jun-2010 17:57:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:19) in /home/bit/public_html/agenda/cntUpdate.php on line 23
+[16-Jun-2010 17:58:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:18) in /home/bit/public_html/agenda/cntUpdate.php on line 22
+[16-Jun-2010 17:58:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntUpdate.php:18) in /home/bit/public_html/agenda/cntUpdate.php on line 22
+[17-Jun-2010 17:38:19] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:52] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:54] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:55] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:56] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:39:57] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:40:34] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:40:37] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:40:52] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:41:34] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:41:51] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:42:16] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:42:42] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:43:41] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:43:46] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 17:44:17] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 11
+[17-Jun-2010 18:54:07] PHP Fatal error:  Call to undefined function  ctnviewlink() in /home/bit/public_html/agenda/listados.php on line 30
+[17-Jun-2010 18:54:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/cntEdit.php on line 14
+[17-Jun-2010 23:15:26] PHP Parse error:  syntax error, unexpected '<' in /home/bit/public_html/agenda/cntDel.php on line 15
+[17-Jun-2010 23:15:59] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/cntDel.php on line 25
+[17-Jun-2010 23:16:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:16:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:16:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:16:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:16:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:16:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:16:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:17:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[17-Jun-2010 23:17:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:20) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:08:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:21) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:08:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:21) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:08:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:21) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:09:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:21) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:11:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:21) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:11:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:13:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:13:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:17:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:17:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:18:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:18:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:11) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:23:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:8) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:23:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:8) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:23:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:8) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:23:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:8) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:27:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:8) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:27:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:8) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:30:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:10) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:30:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:10) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:30:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:10) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:30:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:10) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:33:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:9) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:33:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:9) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:34:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:9) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:34:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:9) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:37:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:22) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:37:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:22) in /home/bit/public_html/agenda/func.php on line 79
+[18-Jun-2010 00:37:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/cntDel.php:22) in /home/bit/public_html/agenda/func.php on line 79
+[19-Jun-2010 15:09:46] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/listados.php on line 30
+[25-Jun-2010 19:09:18] PHP Warning:  Missing argument 2 for css(), called in /home/bit/public_html/agenda/contactos.php on line 16 and defined in /home/bit/public_html/agenda/func_html.php on line 73
+[26-Jun-2010 12:43:18] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[26-Jun-2010 13:16:21] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/contactos.php on line 8
+[26-Jun-2010 14:26:48] PHP Parse error:  syntax error, unexpected ',' in /home/bit/public_html/agenda/contactos.php on line 30
+[26-Jun-2010 14:52:43] PHP Parse error:  syntax error, unexpected ',' in /home/bit/public_html/agenda/listados.php on line 7
+[26-Jun-2010 14:53:04] PHP Parse error:  syntax error, unexpected ',' in /home/bit/public_html/agenda/listados.php on line 7
+[26-Jun-2010 14:53:44] PHP Parse error:  syntax error, unexpected '=' in /home/bit/public_html/agenda/listados.php on line 7
+[26-Jun-2010 15:19:41] PHP Parse error:  syntax error, unexpected ')' in /home/bit/public_html/agenda/func.php on line 42
+[26-Jun-2010 15:20:07] PHP Parse error:  syntax error, unexpected '<' in /home/bit/public_html/agenda/func.php on line 44
+[26-Jun-2010 15:20:41] PHP Parse error:  syntax error, unexpected '"' in /home/bit/public_html/agenda/func.php on line 43
+[26-Jun-2010 15:21:04] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:21:09] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:22:02] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:22:21] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:22:24] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:23:44] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:23:46] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:23:48] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:23:49] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 64
+[26-Jun-2010 15:24:13] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:24:46] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:24:49] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:24:59] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:25:35] PHP Parse error:  syntax error, unexpected '*' in /home/bit/public_html/agenda/func.php on line 66
+[26-Jun-2010 15:25:48] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:26:22] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:27:03] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:27:52] PHP Parse error:  syntax error, unexpected '}' in /home/bit/public_html/agenda/func.php on line 61
+[26-Jun-2010 15:28:23] PHP Parse error:  syntax error, unexpected '}' in /home/bit/public_html/agenda/func.php on line 61
+[26-Jun-2010 15:28:35] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:29:33] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:29:40] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 58
+[26-Jun-2010 15:30:03] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 172
+[26-Jun-2010 15:30:18] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 183
+[26-Jun-2010 15:30:28] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_html.php on line 194
+[26-Jun-2010 15:43:59] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:44:09] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:45:05] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:45:38] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:46:34] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:47:12] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:47:40] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:47:47] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:47:56] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:48:07] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:49:07] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:50:07] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 15:52:09] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[26-Jun-2010 16:40:23] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/listados.php on line 25
+[26-Jun-2010 16:40:43] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 32
+[26-Jun-2010 16:41:37] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 32
+[26-Jun-2010 16:42:39] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 32
+[26-Jun-2010 16:42:43] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 32
+[26-Jun-2010 16:43:31] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 32
+[26-Jun-2010 16:43:34] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 32
+[26-Jun-2010 16:44:16] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 36
+[26-Jun-2010 16:44:19] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/listados.php on line 36
+[26-Jun-2010 17:10:39] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/listados.php on line 27
+[20-Jul-2010 20:37:02] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[25-Aug-2010 01:12:40] PHP Fatal error:  Call to undefined function  html() in /home/bit/public_html/agenda/botonera.php on line 2
+[25-Aug-2010 12:27:50] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func.php on line 6
+[25-Aug-2010 19:54:40] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[25-Aug-2010 22:08:03] PHP Parse error:  syntax error, unexpected '{' in /home/bit/public_html/agenda/func.php on line 48
+[25-Aug-2010 22:08:54] PHP Warning:  Missing argument 3 for instr(), called in /home/bit/public_html/agenda/func.php on line 48 and defined in /home/bit/public_html/agenda/func.php on line 61
+[25-Aug-2010 22:08:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/func.php:61) in /home/bit/public_html/agenda/func.php on line 51
+[25-Aug-2010 22:32:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/func.php on line 7
+[26-Aug-2010 01:26:41] PHP Parse error:  syntax error, unexpected T_SL in /home/bit/public_html/agenda/func.php on line 6
+[26-Aug-2010 01:30:03] PHP Parse error:  syntax error, unexpected T_SL in /home/bit/public_html/agenda/main.php on line 9
+[26-Aug-2010 01:30:56] PHP Parse error:  syntax error, unexpected T_SL in /home/bit/public_html/agenda/main.php on line 9
+[26-Aug-2010 01:31:16] PHP Parse error:  syntax error, unexpected $end in /home/bit/public_html/agenda/main.php on line 46
+[26-Aug-2010 16:24:22] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[26-Aug-2010 16:43:46] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[26-Aug-2010 16:58:05] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[26-Aug-2010 16:58:18] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[26-Aug-2010 17:47:26] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[26-Aug-2010 23:55:41] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[27-Aug-2010 00:06:23] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[27-Aug-2010 00:12:16] PHP Fatal error:  Call to undefined function  cnteditform() in /home/bit/public_html/agenda/cntEdit.php on line 25
+[27-Aug-2010 00:12:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 36
+[27-Aug-2010 00:12:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 36
+[27-Aug-2010 00:12:22] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 37
+[27-Aug-2010 00:12:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 36
+[27-Aug-2010 00:12:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 36
+[27-Aug-2010 00:12:41] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 37
+[27-Aug-2010 11:25:21] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/contactos.php on line 85
+[27-Aug-2010 20:39:56] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/bit/public_html/agenda/func_html.php on line 155
+[27-Aug-2010 20:42:33] PHP Parse error:  syntax error, unexpected T_RETURN, expecting '{' in /home/bit/public_html/agenda/func.php on line 48
+[29-Aug-2010 03:29:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 93
+[29-Aug-2010 03:39:12] PHP Fatal error:  Call to undefined function  checktables() in /home/bit/public_html/agenda/index.php on line 26
+[29-Aug-2010 03:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 15
+[29-Aug-2010 03:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 15
+[29-Aug-2010 03:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 23
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 23
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 31
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 31
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 38
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 38
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 48
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 48
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 54
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 54
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 64
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/func.php on line 63
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 71
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 71
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 03:39:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/tablas.php on line 75
+[29-Aug-2010 04:01:47] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/contactos.php on line 72
+[03-Sep-2010 23:10:45] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[03-Sep-2010 23:21:04] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/botonera.php on line 19
+[03-Sep-2010 23:21:04] PHP Fatal error:  Call to undefined function  botonera() in /home/bit/public_html/agenda/listados.php on line 11
+[03-Sep-2010 23:21:39] PHP Fatal error:  Call to undefined function  botonera() in /home/bit/public_html/agenda/listados.php on line 11
+[03-Sep-2010 23:21:49] PHP Fatal error:  Call to undefined function  botonera() in /home/bit/public_html/agenda/listados.php on line 11
+[03-Sep-2010 23:21:56] PHP Fatal error:  Call to undefined function  botonera() in /home/bit/public_html/agenda/contactos.php on line 18
+[03-Sep-2010 23:24:01] PHP Fatal error:  Call to undefined function  botonera() in /home/bit/public_html/agenda/contactos.php on line 18
+[03-Sep-2010 23:26:30] PHP Warning:  Invalid argument supplied for foreach() in /home/bit/public_html/agenda/func_html.php on line 22
+[03-Sep-2010 23:29:16] PHP Warning:  Invalid argument supplied for foreach() in /home/bit/public_html/agenda/func_html.php on line 22
+[03-Sep-2010 23:29:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bit/public_html/agenda/func_html.php on line 22
+[14-Sep-2010 16:49:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 99
+[14-Sep-2010 16:49:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 104
+[14-Sep-2010 16:49:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 111
+[14-Sep-2010 16:50:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 99
+[14-Sep-2010 16:50:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 104
+[14-Sep-2010 16:50:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 111
+[14-Sep-2010 16:53:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 98
+[14-Sep-2010 16:53:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 103
+[14-Sep-2010 16:53:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 110
+[14-Sep-2010 17:57:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 98
+[14-Sep-2010 17:57:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 103
+[14-Sep-2010 17:57:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 110
+[14-Sep-2010 19:27:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 98
+[14-Sep-2010 19:27:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 103
+[14-Sep-2010 19:27:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 110
+[14-Sep-2010 19:45:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 99
+[14-Sep-2010 19:45:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 104
+[14-Sep-2010 19:45:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 111
+[14-Sep-2010 19:48:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 99
+[14-Sep-2010 19:48:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 104
+[14-Sep-2010 19:48:33] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 111
+[14-Sep-2010 19:48:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 99
+[14-Sep-2010 19:48:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 104
+[14-Sep-2010 19:48:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 111
+[03-Oct-2010 15:51:20] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 70
+[03-Oct-2010 15:51:20] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 70
+[03-Oct-2010 15:51:20] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 72
+[03-Oct-2010 15:51:20] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 72
+[03-Oct-2010 15:51:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:14) in /home/bit/public_html/agenda/func.php on line 47
+[03-Oct-2010 15:53:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:14) in /home/bit/public_html/agenda/func.php on line 47
+[03-Oct-2010 15:55:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:14) in /home/bit/public_html/agenda/func.php on line 47
+[03-Oct-2010 15:56:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:14) in /home/bit/public_html/agenda/func.php on line 47
+[03-Oct-2010 15:56:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:14) in /home/bit/public_html/agenda/func.php on line 47
+[03-Oct-2010 17:05:10] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 33
+[03-Oct-2010 17:05:32] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/bit/public_html/agenda/contactos.php on line 44
+[03-Oct-2010 17:06:21] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/contactos.php on line 48
+[04-Oct-2010 03:23:42] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 34
+[04-Oct-2010 03:23:42] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 34
+[04-Oct-2010 03:23:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 36
+[04-Oct-2010 03:23:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 36
+[04-Oct-2010 03:23:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:34) in /home/bit/public_html/agenda/func.php on line 47
+[04-Oct-2010 03:51:40] PHP Parse error:  syntax error, unexpected T_EMPTY, expecting '(' in /home/bit/public_html/agenda/func_html.php on line 17
+[10-Oct-2010 17:19:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 48
+[10-Oct-2010 17:19:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 48
+[10-Oct-2010 17:19:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:48) in /home/bit/public_html/agenda/func.php on line 46
+[27-Oct-2010 09:26:21] PHP Parse error:  syntax error, unexpected ']' in /home/bit/public_html/agenda/func.php on line 90
+[04-Nov-2010 17:31:09] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/bit/public_html/agenda/func_html.php on line 87
+[04-Nov-2010 18:05:37] PHP Warning:  Invalid argument supplied for foreach() in /home/bit/public_html/agenda/func_html.php on line 29
+[07-Nov-2010 04:21:47] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 167
+[07-Nov-2010 14:49:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/contactos.php on line 152
+[07-Nov-2010 15:02:02] PHP Parse error:  syntax error, unexpected ',' in /home/bit/public_html/agenda/contactos.php on line 170
+[07-Nov-2010 15:02:34] PHP Parse error:  syntax error, unexpected ',' in /home/bit/public_html/agenda/contactos.php on line 172
+[07-Nov-2010 15:10:39] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/contactos.php on line 170
+[07-Nov-2010 15:42:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:43:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 49
+[07-Nov-2010 15:43:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 49
+[07-Nov-2010 15:43:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:49) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:43:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 49
+[07-Nov-2010 15:43:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 49
+[07-Nov-2010 15:43:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:49) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:43:26] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bit/public_html/agenda/salir.php on line 17
+[07-Nov-2010 15:43:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:44:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bit'@'localhost' (using password: NO) in /home/bit/public_html/agenda/contactos.php on line 49
+[07-Nov-2010 15:44:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bit/public_html/agenda/contactos.php on line 49
+[07-Nov-2010 15:44:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:49) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:45:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:49:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 37
+[07-Nov-2010 15:49:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:52:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 37
+[07-Nov-2010 15:52:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 15:55:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/bit/public_html/agenda/contactos.php on line 37
+[07-Nov-2010 15:55:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 16:00:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:37) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 16:36:14] PHP Parse error:  syntax error, unexpected ')' in /home/bit/public_html/agenda/contactos.php on line 162
+[07-Nov-2010 17:02:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:107) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:15:03] PHP Parse error:  syntax error, unexpected ':' in /home/bit/public_html/agenda/contactos.php on line 42
+[07-Nov-2010 17:16:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:116) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:16:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:116) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:19:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:116) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:21:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:23:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:23:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:24:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:27:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:27:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:28:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:28:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:29:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:123) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:30:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:123) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:43:13] PHP Parse error:  syntax error, unexpected T_ENDFOR in /home/bit/public_html/agenda/contactos.php on line 138
+[07-Nov-2010 17:43:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:122) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:45:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:122) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:56:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:58:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 17:58:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:00:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:01:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:02:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:08:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:11:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:26:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:26:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/contactos.php:117) in /home/bit/public_html/agenda/func.php on line 46
+[07-Nov-2010 18:36:30] PHP Parse error:  syntax error, unexpected '{' in /home/bit/public_html/agenda/listados.php on line 29
+[07-Nov-2010 18:37:00] PHP Fatal error:  Call to undefined function  cntreadfonos() in /home/bit/public_html/agenda/listados.php on line 26
+[07-Nov-2010 18:37:33] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[07-Nov-2010 18:38:33] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[07-Nov-2010 18:38:39] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[07-Nov-2010 18:41:01] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home/bit/public_html/agenda/func.php:5) in /home/bit/public_html/agenda/func.php on line 7
+[07-Nov-2010 18:47:13] PHP Fatal error:  Cannot redeclare cnteditform() (previously declared in /home/bit/public_html/agenda/func_cnt.php:4) in /home/bit/public_html/agenda/contactos.php on line 183
+[09-Nov-2010 18:15:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/bit/public_html/agenda/func_cnt.php on line 21
+[09-Nov-2010 18:26:05] PHP Parse error:  syntax error, unexpected ';' in /home/bit/public_html/agenda/func_cnt.php on line 42
+[09-Nov-2010 19:03:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bit/public_html/agenda/func_html.php:11) in /home/bit/public_html/agenda/func.php on line 46
+[09-Nov-2010 19:08:47] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:09:00] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:09:08] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:10:03] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:12:36] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:13:34] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:13:54] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:19:42] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:19:58] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 19:20:06] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 23:54:03] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 52
+[09-Nov-2010 23:59:06] PHP Fatal error:  Call to undefined function  h1() in /home/bit/public_html/agenda/index.php on line 22
+[09-Nov-2010 23:59:38] PHP Fatal error:  Call to undefined function  h1() in /home/bit/public_html/agenda/index.php on line 22
+[10-Nov-2010 00:00:00] PHP Fatal error:  Call to undefined function  h1() in /home/bit/public_html/agenda/index.php on line 22
+[10-Nov-2010 00:06:27] PHP Fatal error:  Call to undefined function  h1() in /home/bit/public_html/agenda/index.php on line 22
+[10-Nov-2010 00:38:53] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 44
+[10-Nov-2010 00:38:58] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ')' in /home/bit/public_html/agenda/func_cnt.php on line 44
+[10-Nov-2010 01:32:59] PHP Fatal error:  Call to undefined function  textarea() in /home/bit/public_html/agenda/func_cnt.php on line 25
+[15-Jul-2011 00:58:09] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2011 00:58:09] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/bit/public_html/agenda/func.php on line 6
+[20-Sep-2011 15:11:15] PHP Fatal error:  Cannot redeclare checklogged() (previously declared in /home4/bit/public_html/agenda/func.php:5) in /home4/bit/public_html/agenda/func.php on line 7
+[25-Oct-2011 15:12:44] PHP Parse error:  syntax error, unexpected '}' in /home4/bit/public_html/agenda/listados.php on line 21
+[25-Oct-2011 15:13:28] PHP Parse error:  syntax error, unexpected '}' in /home4/bit/public_html/agenda/listados.php on line 50
+[26-Oct-2011 12:25:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 31
+[26-Oct-2011 12:25:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 34
+[26-Oct-2011 12:25:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 31
+[26-Oct-2011 12:25:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 34
+[26-Oct-2011 12:25:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 31
+[26-Oct-2011 12:25:08] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 34
+[26-Oct-2011 12:25:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 31
+[26-Oct-2011 12:25:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 34
+[26-Oct-2011 12:27:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:27:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:28:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:28:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:28:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:28:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:28:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:28:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:29:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:29:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:29:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:29:52] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:29:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:29:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:31:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:31:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:31:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:31:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:31:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:31:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:32:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:32:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:32:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 32
+[26-Oct-2011 12:32:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 35
+[26-Oct-2011 12:34:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:34:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:34:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:34:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:34:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:34:57] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:35:00] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:35:00] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:35:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:35:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:37:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:37:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:37:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:37:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:44:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:44:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 12:46:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 33
+[26-Oct-2011 12:46:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home4/bit/public_html/agenda/listados.php on line 36
+[26-Oct-2011 13:01:10] PHP Fatal error:  Call to undefined function  center() in /home4/bit/public_html/agenda/listados.php on line 39
+[26-Oct-2011 13:01:56] PHP Parse error:  syntax error, unexpected ')' in /home4/bit/public_html/agenda/listados.php on line 39

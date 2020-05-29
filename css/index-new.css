@@ -1,0 +1,188 @@
+﻿@import url("/css/base.css"); 
+
+body {
+	color: #333333;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.flexbox {
+	clear: both; 
+	display: flex; 
+	flex-flow: row wrap;
+/*	align-items: center;*/
+	justify-content: space-around;
+	/*width: 100%; */
+}
+
+.flexbox::after {
+  content: "";
+  flex: auto;
+}
+
+#main {
+	margin: 30px 10px; 
+}
+#spacer {
+	flex: 20 0 10px; 
+	border: 0px;
+}
+#friso_libros a, a:link, a:hover, a:visited { color: black; }
+
+.cuadro { 
+	display: flex;
+	align-items: flex-start;
+	flex-flow: column;
+	flex: 1 0 170px;
+	margin: 5px; 
+	padding: 8px;
+/*	min-width: 0;*/
+/*	float: left;*/
+}
+.cuadro img {
+	height: 300px;
+}
+.cuadro:nth-of-type(odd) {
+	border: thin solid black; 
+}
+
+#soy { flex: 1 0 200px; }
+#escribi { flex: 1 0 240px; }
+#antologias { flex: 1 0 222px; }
+
+/*a, a:link, a:visited, a:hover { color: #333333; }*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Bitter, Cambria, Georgia , "Times New Roman", Times, serif;
+	color: #333333; 
+	text-align: left;
+	margin: 0px;
+	padding: 0px; 
+	font-weight: normal; 
+	border-bottom: none;
+	/*margin-bottom: 5px; */
+}
+
+h1 {
+	font-size: 48pt;
+}
+
+h2 {
+	font-size: 24pt;
+}
+
+h3 {
+	/*font-size: 24pt;*/
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 15px; 
+}
+
+h4 {
+	font-size: 18pt;
+	font-style: italic;
+}
+
+h3, h5 {
+	font-family: "Titillium Web", Mayfarling, Helvetica, Arial;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+h6 {
+	font-size: 12pt;
+	margin-bottom: 5px;
+}
+
+p {
+	font-size: 14pt; 
+	text-indent: 1em;
+}
+#sidebar {
+	float:left; 
+	width: 22%; 
+	height: 100%; 
+	overflow: hidden; 
+	padding: 10px 0px 10px 10px;
+}
+#content {
+	float: right; 
+	height: 100%; 
+	overflow: hidden; 
+	width: 75%;
+	padding: 10px 0px 10px 10px;
+}
+.linkblock {
+	/*display: block;*/
+	width: 100%;
+	border-top: thin dotted gray; 
+	padding-bottom: 5px;
+	padding-left: 5px; 
+	padding-right: 5px;
+}
+.linkblock:hover, .linkito:hover {
+	background-color: silver;
+}
+
+.linkito {
+	font-size: 8pt;
+	font-variant: normal;
+	display: block; 
+	text-align: right;
+	color: #333333; 
+}
+
+.thumbnail {
+	height: 180px;
+	display: block;
+	vertical-align: absmiddle;
+}
+
+#promo_furiarreciente {
+	margin: auto;
+	text-align: center; 
+	border: thin solid black; 
+	/*display: flex;*/
+	/*justify-content: center; */
+	/*font-family: "OCR A Extended", "Ubuntu Mono", "Courier New", Courier, monospace; */
+	/*font-weight: bold; */
+	/*font-size: 24pt	; */
+}
+
+#NaN {
+	justify-content: center;
+	text-align: center; 
+	color: #0099FF; 
+	flex: 1 1 100px;
+	background-color: black;
+	font-family: "OCR A Extended", "Ubuntu Mono", "Courier New", Courier, monospace; 
+	font-weight: bold; 
+	font-size: 24pt	; 
+}
+#NaN a, a:link, a:visited, a:hover { color: #0099FF; }
+
+.zombies {
+	margin: auto; 
+	line-height: 1.4;
+}
+
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+#footer {
+	clear: both; 
+	margin-top: 1em; 
+	font-size: 7pt;
+	text-align: center;
+}

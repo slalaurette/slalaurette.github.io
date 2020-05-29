@@ -1,0 +1,19 @@
+.tuit {
+	margin: 30px 10px; 
+	padding: 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	line-height: 1.2; 
+}
+
+.tuitero {
+	margin: 5px; 
+    font-size: 11pt;
+}
+
+.tuitero strong {
+	padding-right: 10px; 
+	font-size: 12pt; 
+}
+
+
