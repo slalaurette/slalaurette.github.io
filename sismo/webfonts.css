@@ -1,0 +1,86 @@
+/* GOOGLE FONT API */
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic);
+
+/* OPENTYPE */
+
+@font-face {
+  font-family: Delicious;
+  src: url("/fonts/Delicious-Roman.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Delicious Heavy";
+  src: url("/fonts/Delicious-Heavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Graublau Sans";
+  src: url("/fonts/GraublauWeb.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Graublau Sans";
+  font-weight: 900; 
+  src: url("/fonts/GraublauWebBold.otf") format("opentype");
+}
+
+/* TRUETYPE */
+
+@font-face {
+  font-family: Aller;
+  src: url("/fonts/Aller_Rg.ttf") format("opentype");
+}
+@font-face {
+  font-family: Aller;
+  font-weight: bold;
+  src: url("/fonts/Aller_Bd.ttf") format("opentype");
+}
+@font-face {
+  font-family: Aller;
+  font-style: italic;
+  src: url("/fonts/Aller_It.ttf") format("opentype");
+}
+@font-face {
+  font-family: Aller;
+  font-weight: bold;
+  font-style: italic;
+  src: url("/fonts/Aller_BdIt.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "Gentium Book";
+  src: url("/fonts/GenBkBasR.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Gentium Book";
+  font-weight: bold;
+  src: url("/fonts/GenBkBasB.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Gentium Book";
+  font-style: italic;
+  src: url("/fonts/GenBkBasI.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Gentium Book";
+  font-weight: bold;
+  font-style: italic;
+  src: url("/fonts/GenBkBasBI.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: Junction;
+  src: url("/fonts/Junction.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Teletype;
+  src: url("/fonts/Teletype.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Village;
+  src: url("/fonts/Village.ttf") format("truetype");
+}
+

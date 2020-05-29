@@ -1,0 +1,61 @@
+.jotser, .andyuta1, .andyuta2, .borsaliiino, .ferchango, .claudia, .marina {margin: 0px 0px 0px 140px; }
+
+.dice { margin: 4px 0px 0px 100px; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+}
+
+.jotser {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold; 
+	font-style: italic;
+	color: #006600; 
+}
+
+.andyuta1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #000066;
+}
+
+.andyuta2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #FF6600  ;
+}
+
+.borsaliiino{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #660033 ;
+}
+
+.ferchango{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-style: normal;
+	color: #0033FF ;
+}
+
+.claudia{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold; 
+	font-style: normal;
+	color: #000099;
+}
+
+.marina {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold; 
+	font-style: normal;
+	color: #776600;
+}
+
+blockquote { font-size: 80%; }
