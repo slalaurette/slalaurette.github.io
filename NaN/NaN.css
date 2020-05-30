@@ -47,6 +47,7 @@ p a:hover, p a:active {
 	text-align: center;
 	font-size: 85%;
 	margin: 6px 12px; 
+	padding: 6px;
 }
 .vmenu menuitem {
 	flew-flow: row; 
