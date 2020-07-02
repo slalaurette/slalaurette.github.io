@@ -63,7 +63,7 @@ printMessages();
 
 ?>
 
-<h4>Entr&aacute; con tu nombre de usuario y contrase&ntilde;a.</h4>
+<h4>Entrá con tu nombre de usuario y contraseña.</h4>
 
 <form action="<? print $redir; ?>.php" method="post">
 <table width="200" border="0" cellspacing="10">
