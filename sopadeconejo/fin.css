@@ -1,0 +1,9 @@
+@import "golpes.css";
+
+.pared { display: none; }
+.tachado, .elzumbido, .almargen, .almargenr { color: black; background-color: black; }
+.tachado * { text-decoration: none; text-shadow: none; }
+.flores { display: inline; }
+.fin { display: inline; }
+.hoja2 { display: inline; }
+

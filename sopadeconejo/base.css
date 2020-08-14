@@ -1,0 +1,106 @@
+body { 
+	margin-left: 20%; margin-right: 15%; margin-top: 3em; 
+	font-family: Calligraffitti, cursive, serif; font-size: 18pt; 
+	color: darkblue;
+}
+
+.fleft  { float: left; }
+.fright { float: right; }
+
+/* a { color: darkgreen; } */
+a { color: white; background-color: blue; padding: 5px; text-decoration: none; }
+a:hover { text-decoration: underline; }	
+
+h1, h2, h3 { font-family: 'EB Garamond', Georgia, serif; color: black; }
+h2, h3 { font-weight: normal; }
+hr { width: 70%; text-align: left; margin-left: 0; }
+
+.Normal, .hoja2 { margin-right:  30%; }
+
+.chapa   { 
+	font-family: Cambria, Georgia, serif; color: black; font-size: 12pt; 
+	margin-left: -10%; margin-right: -10%; 
+}
+.chapa a { color: red; font-weight: bold; background: none; }
+
+.qsopa, .maspapel, .zzz, .qmaterias, .nop, .nononono, .getout, .otravez, .golpes, .ffwd, .fin { 
+	margin-right: -30%; float: right; font-size: 14pt; 
+	font-family: 'EB Garamond', Georgia, serif; 
+}
+.fin { float: none; text-align: center; }
+
+.nombre { font-family: 'Dancing Script', cursive; }
+
+.almargen, .almargenr, .sinhijos {
+	font-family: Caveat, cursive, sans-serif; font-size: 14pt; width: 18%; color: black; 
+}
+.almargen, .sinhijos { 
+	float: left; margin-left: -20%; text-align: right; 
+}
+.almargenr { 
+	float: right; margin-right: -20%; text-align: left; 
+}
+
+.sopa {
+  position: relative;
+  white-space: nowrap;
+}
+.sopa > * {
+  position: absolute;
+  left: 0;
+  top: -3;
+}
+
+.sobresc, .pollo { 
+	font-family:  Caveat, cursive; font-size: 125%; font-weight: bold; 
+	z-index: 50; 
+}
+
+.elzumbido, .sangre, .pared { 
+	font-family: Permanent Marker; font-size: 200%; 
+}
+.elzumbido, .sangre { 
+	position: absolute; z-index: 100; 
+	color: rgba(255, 11, 11, 0.6); }
+.sangre { 
+	font-size: 150%; margin-right: 30%; 
+	transform: rotate(-10deg); 
+}
+.pared { 
+	color: red; 
+	margin-left: 30%; margin-right: 45%; 
+}
+
+.hoja2, .hoja3 { color: black; }
+.hoja3 { font-family: Caveat, cursive; }
+
+.angel { position: relative; z-index: 19; }
+.angel > * { position: absolute; }
+
+.dijeronqueno { position: relative; z-index: 19; }
+.dijeronqueno > * { position: absolute; }
+
+.locos, .demonio, .muertos, .perdon {
+	font-family: Permanent Marker; font-weight: bold; 
+	color: black; position: absolute; z-index: 200; 
+}
+.perdon { margin-right: 30%; }
+
+.flores { color: red; }
+
+.instrucciones { 
+	display: block; margin-left: 2em; margin-right: 2em; text-align: justify;
+    font-family: 'EB Garamond', Georgia, serif; font-size: 75%; color: black;
+}
+
+.autor, .fecha, .qsopa, .pollo, .maspapel, .zzz, .qmaterias, .nop, .nononono, .getout, .golpes, .fin, 
+.hoja2, .hoja3, .pared, 
+.almargen, .almargenr, .sinhijos, 
+.e, .enfermera, .birome, 
+.locos, .demonio, .muertos, .perdon, 	
+.elzumbido, .sangre, .flores { 
+	display: none; 
+}
+
+
+

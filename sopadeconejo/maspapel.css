@@ -1,0 +1,11 @@
+@import "sinsopa.css";
+
+/*
+.oidos, .ba { text-decoration: underline double red; }
+*/
+.oidos { border-bottom: thick double red; }
+.ba { text-decoration: line-through; }
+//.maspapel, .contame, .saludo, .firma { display: none; }
+.maspapel, .saludo { display: none; }
+.hoja2, .zzz { display: inline; }
+.zzz { font-style: italic; }

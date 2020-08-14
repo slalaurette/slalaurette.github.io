@@ -1,0 +1,18 @@
+@import "maspapel.css";
+
+/*
+.oidos, .ba { text-decoration: underline double red; }
+*/
+.zzz { display: none; }
+.ba, .veobien { color: black; background-color: black; }
+.almargen { display: inline; }
+.concentrarme, .pollo, .algo { text-decoration: underline red; }
+//.qmaterias { display: inline; }
+.nop { display: inline; }
+.materias { text-decoration: line-through wavy black; }
+.e { font-weight: bold; color: black; text-decoration: underline red; 
+     position: absolute; z-index: 20; display: inline; }
+.hermanos, .rogar, .azul { text-decoration: underline; }
+.sinhijos { display: inline; } 
+
+

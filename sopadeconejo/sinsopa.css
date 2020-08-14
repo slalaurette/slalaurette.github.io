@@ -1,0 +1,7 @@
+@import "inicio.css";
+
+#instrucciones { display: none; }
+.qsopa { display: none; }
+// .sopa  { text-decoration: line-through wavy; }
+.pollo { display: inline; }
+.maspapel { display: inline; }

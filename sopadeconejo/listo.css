@@ -1,0 +1,5 @@
+@import "fin.css";
+
+.hoja2 { display: none; }
+.autor { display: inline; }
+.fecha { display: inline; }

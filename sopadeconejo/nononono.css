@@ -1,0 +1,13 @@
+@import "no.css";
+
+.nononono { display: none; }
+.getout, .perdon { display: inline; }
+.muertos, .elzumbido { display: inline; }
+.o  { font-weight: bold; text-shadow: 3px 0 0 red, 0 -3px 0 red, 0 3px 0 red, -3px 0 0 red; }
+.blackout { color: black; background-color: black; }
+.blackout .o { text-shadow: none; }
+.blackout .no { text-decoration: none; }
+.cribi { color: black; background-color: black; }
+
+
+
