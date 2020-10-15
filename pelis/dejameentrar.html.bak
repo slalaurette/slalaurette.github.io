@@ -2,8 +2,7 @@
 <html>
   <head>
     <title>Películas en Sangría francesa</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <link rel="stylesheet" href="../screen.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../screen.css" type="text/css" media="screen">
     <link rel="stylesheet" href="../printer.css" type="text/css" media="print">
   </head>
   <body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
@@ -31,7 +30,8 @@ google_color_text = ["000000","6F6F6F","000000","003366"];
 //--></script>
       <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></div>
-    <table style="width: 70%; text-align: left; margin-left: auto; margin-right: auto;"
+    <table style="width: 70%; text-align: left; margin-left: auto; margin-right: auto;"
+
       border="0" cellpadding="10">
       <tbody>
         <tr>

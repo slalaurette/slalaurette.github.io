@@ -6,7 +6,6 @@
 <title>Agenda Personal</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="favicon.gif">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
 <body>
