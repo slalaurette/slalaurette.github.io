@@ -1,0 +1,195 @@
+/* 2022.08.02 ; 2022.08.03 ; 2022.08.04 */
+
+/*
+	Music: 
+	https://qjzhvmqlzvoo5lqnrvuhmg.on.drv.tw/UInv/Sample_Code.html#Music
+	Video background:
+	https://qjzhvmqlzvoo5lqnrvuhmg.on.drv.tw/UInv/Sample_Code.html#Video%20Background
+	
+	
+*/
+
+:: StoryTitle
+Música lenta
+:: StoryCaption 
+por Sebastián Lalaurette
+
+/% 1251 %/
+:: Start
+<<audio ":all" stop>>
+<<toggleclass "body" "autumn">>
+!!! Abril
+
+--Mirá lo que te traje, abuelo. 
+
+Cada vez que viene, Julieta me trae algo. A veces son galletitas de chocolate que compra en la confitería que está cerca de su trabajo. Otras veces es una caja de té o un pañuelo. Hoy no. Hoy vino con una bolsa de la que sacó algo cuidadosamente envuelto en papeles y que apoyó sobre la mesa con delicadeza. 
+
+--¿Qué es, Juli?
+
+--Esperá, impaciente --rió ella. 
+
+Desenvolver el objeto fue cuestión de segundos. Cuando terminó la tarea, se quedó mirándolo por unos momentos; después me miró a mí, como investigando mi reacción. 
+
+--¿La reconocés? 
+
+Ya tengo más de ochenta, y hace por lo menos veinte años que no lloro. Sólo por eso pude responderle sin que se me quebrara la voz ni se me nublara la vista.
+
+--Claro que [[la reconozco.|Caja de música]] Se la regalé a tu abuela cuando cumplió veinticinco.
+
+--Y la abuela me la regaló a mí. Y yo ahora te la regalo a vos y completo el círculo.
+
+--No, no. Si te la regaló, te la quedás. Ella quería que vos la tuvieras.
+
+--Abuelo... 
+
+Yo sabía lo que Julieta quería decir pero no decía: //Abuelo, ella murió hace más de diez años. Y por algo me la regaló. Ya no quería tenerla.// 
+
+Y yo, lo que podría responderle: //Algunos recuerdos duelen.//
+
+<<button [[>>|Mayo]]>><</button>><br><br>
+
+/% 1227 %/
+:: Mayo																	
+<<audio ":all" stop>>
+<<toggleclass "body" "winter">>
+!!! Mayo
+
+Otra visita de Julieta. Julieta que está siempre ocupada, que se disculpa por no poder venir más seguido, pero que cuando viene demuestra una curiosidad insaciable. Que me pregunta por anécdotas que ya le conté mil veces, y que siempre logra sacarme alguna que nunca le había contado. Como las aventuras con los chicos del Instituto, o los viajes que hice cuando trabajaba en el diario y me pagaban dos pesos con cincuenta. 
+
+Hoy, otra vez, la sorprendí con algo que no sabía. Y que, a decir verdad, ni yo mismo recordaba. 
+
+--Me //jodés// --dijo, incrédula--. ¿Vos escribías poesía? 
+
+--Era muy malo --respondí, riendo--. Pero sí, escribía poesía. ¿Quién no escribió poesía alguna vez?
+
+--Me muero --dijo--. Me tenés que mostrar algo. 
+
+--No tengo nada. Era todo muy así, muy de servilleta. Poemas que escribía en el momento para encantar a alguna muchacha. O que le dedicaba a un amigo en una noche de farra. Ah, ¿a ver? Mirá, puede ser que tenga aquello del diario. 
+
+Me levanté y fui a buscar la caja. Hacía por lo menos cincuenta años que no la abría. Sí, ahí estaba. 
+
+--Es un poema que escribí en broma, dedicado al equipo de fútbol de la redacción. Es muy malo, pero [[es lo que hay.|Poema]]
+
+Julieta leyó el poema. Se rió con ganas. 
+
+--¡Qué equipo legendario! De algunos de ellos me habías hablado. Marucci era el peor, ¿no? 
+
+--Ojo que Itzcovich era bastante indio... 
+
+Cuando Julieta se fue, me quedé un rato largo sentado con el papel en la mano. ¿Qué habría sido de todos ellos? Había perdido todo contacto con aquella etapa de mi vida. De Marcucci ni me acordaba ya. 
+
+Después pensé en [[Dardo Rocha]].
+
+
+
+<<button [[>>|Principios de septiembre]]>><</button>><br><br>
+
+/% 28 %/
+:: Principios de septiembre													
+<<audio ":all" stop>>
+<<audio "musicbox-slow" play>>
+<<toggleclass "body" "spring">>
+!!! Principios de septiembre
+
+Ana está viviendo conmigo. Al principio quedamos en que iba a pasar cada tanto para ver cómo estaba. Eso fue en julio, cuando pasó lo del té y me tuvo que llevar al hospital. Después empezó a venir todos los días un rato. Ahora ya está instalada acá. 
+
+--No te molestes. Yo estoy bien --le dije hace una semana. 
+
+--Papá... 
+
+Tiene esa forma de decir sin decir, de no terminar las frases. Lo heredó de @@borr;Susana@@ y Julieta, a su vez, lo heredó de ella. “Papá...”, “Abuelo...”, y ya está todo dicho, aparentemente.
+
+
+
+
+
+
+<<button [[>>|Fines de septiembre]]>><</button>><br><br>
+
+/% 0 %/
+:: Fines de septiembre														
+<<audio ":all" stop>>
+<<audio "musicbox-end" play>>
+<<toggleclass "body" "spring">>
+!!! Fines de septiembre
+
+--Ana me está cuidando. 
+
+
+<<button [[>>|Principios de octubre]]>><</button>><br><br>
+
+/% 18 %/
+:: Principios de octubre													
+<<audio ":all" stop>>
+<<toggleclass "body" "outside">>
+
+Salimos al sol.
+
+<<button "▶">><<audio "musicbox-orig" play>><</button>><br><br>
+
+/% 537 %/
+:: Caja de música															
+<<audio "musicbox-orig" play>>
+<<toggleclass "body" "musica">>
+[img[music-box-3268714_640.png]]
+
+Corría 1969. Era difícil vivir en la Argentina. Pero nosotros nos sentíamos invencibles. Los Beatles sonaban //nonstop// en la radio y en Córdoba la gente por fin se había cansado. ¿Cómo imaginar lo que iba a venir después? Susana cumplía 25, yo le llevaba cuatro años y éramos felices. Compré la caja de música en un local de la calle Lavalle. Tomá, le dije, ésta es la música de mi corazón. Sos cursi, dijo. Pero lo dijo con una sonrisa tan espontánea, tan abierta, que sé que nunca la voy a olvidar. A pesar de todo.
+
+<<button "Volver">><<script>>Engine.backward();<</script>><</button>><br><br>
+
+/% 725 %/
+:: Poema
+<<audio ":all" stop>>
+<<toggleclass "body" "paper">>
+<pre>
+''Los elegidos''
+
+en ese momento son
+más que @@.borr;garcía@@s @@.borr;vitale@@s @@.borr;marcucci@@s
+superan toda noción de @@.borr;itzcovich@@idad o @@.borr;fernandez@@a
+cualquier medida de @@.borr;perugorría@@ de éste o del otro lado
+@@.borr;marcucci@@ando por aquí @@.inv;marcucci@@ando por allá
+es un instante que tiene dueño
+RedacTeam Redac Boys o incluso
+Redac's way
+
+con sus grises acometidas
+sus ocultas o francas colisiones
+sus avances y retrocesos
+son
+a qué dudarlo
+guardianes de nuestra propia y personal valla
+//centroforwards// del Ser
+toros @@.borr;Garimaldi@@s del nuevo siglo
+fiósofos del Arco primigenio
+
+mas
+¿podrían ser --pregunto--
+la delantera de su propio destino?
+
+engordan a la vida
+y están listos
+               tal vez
+                       para comérsela.
+</pre>
+
+<<button "Volver">><<script>>Engine.backward();<</script>><</button>><br><br>
+
+:: UserStylesheet[stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=Merriweather');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono');
+@import url('styles.css'); 
+
+:: PassageHeader
+<div id="topbar">Música lenta <<button "Reiniciar">><<script>>Engine.restart();<</script>><</button>></div>
+
+:: StoryData
+{
+        "ifid": "156524E6-41EA-4A1D-A59D-181023446B1B"
+}
+
+:: StoryInit
+<<cacheaudio "musicbox-orig" "musicbox-orig.mp3">>
+<<cacheaudio "musicbox-slow" "musicbox-slow.mp3">>
+<<cacheaudio "musicbox-end"  "musicbox-end.mp3">>
+

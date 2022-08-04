@@ -1,0 +1,89 @@
+/*
+#ui-bar, #ui-body {
+background: hidden;
+background-attachment: fixed;
+background-color: transparent;
+border-color: transparent;
+}
+*/
+#ui-bar { display: none; }
+//#menu, #ui-bar-tray { display: none; }
+body { color: white; background-color: #eee; 
+       font-family: 'Merriweather'; 
+       margin: 0 15%; 
+       }
+a { font-weight: bold; color: white; background: #224; 
+    text-decoration: underline; padding: 3px; }
+a:hover { color: black; background: white; }
+button { float: right; background: white; color: black; }
+.borr { filter: blur(1px); }
+.inv { opacity: 0; }
+.passage { background: rgba(0, 0, 0, 0.7); 
+           padding: 10px 30px; 
+           margin-top: 0; margin-bottom: 0; }
+.passage img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.centered { 
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+/* AUTUMN */
+.autumn { background: url("hoja.jpg") fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: white; }
+/* PAPER */
+/* WINTER */
+.winter { background: url("lluvia.jpg") fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: white; }
+.paper { background: url("paper.jpg")
+          fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: black; }
+/* SPRING */
+.spring { background: url("panadero.jpg")
+          fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: white; }
+/* OUTSIDE */
+.outside { background: url("florespejo.jpg")
+          fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: white; }
+/* MUSICA */
+.musica { background: url("cordobazo.jpg")
+          fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: white; }
+/* ---------------------------------------------------------- */
+.paper .passage { 
+	background: rgba( 255, 255, 255, 0.5 ); 
+	padding: 10px 30px; 
+	margin-top: 0; margin-bottom: 0; 
+}
+.poema { font-family: 'Cutive Mono'; 
+         background: rgba( 255, 255, 255, 0.5 ); 
+//         margin: 0 15%; 
+//         width: 85%; 
+}
+// .poema button { font-family: 'Merriweather'; }
+#topbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	font-family: 'Merriweather'; 
+	background-color: #224	;
+	padding: 3px 22px; 
+	border-top: 1px solid #444;
+	box-shadow: 0 0 10px 0 #333;
+	z-index: 40;
+	color: white; 
+}
+#topbar button { font-size: 70%; margin-right: 30px; }
