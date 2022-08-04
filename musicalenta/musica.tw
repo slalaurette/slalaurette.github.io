@@ -1,21 +1,24 @@
 /* 2022.08.02 ; 2022.08.03 ; 2022.08.04 */
 
-/*
-	Music: 
-	https://qjzhvmqlzvoo5lqnrvuhmg.on.drv.tw/UInv/Sample_Code.html#Music
-	Video background:
-	https://qjzhvmqlzvoo5lqnrvuhmg.on.drv.tw/UInv/Sample_Code.html#Video%20Background
-	
-	
-*/
-
 :: StoryTitle
 Música lenta
 :: StoryCaption 
 por Sebastián Lalaurette
 
-/% 1251 %/
 :: Start
+<<toggleclass "body" "start">>
+!! Música lenta
+!!!! Un cuento digital 
+
+Seguí los enlaces que van apareciendo a lo largo del texto. Al terminar de leer los fragmentos indicados, podrás volver al texto principal. Al final de cada página hay un botón que te permitirá pasar a la siguiente. 
+
+Es recomendable que leas la historia con los parlantes encendidos o los auriculares puestos. 
+
+Una vez leído un pasaje no se puede volver atrás. Pero en la barra superior hay un botón con la leyenda “Reiniciar” con el que podés empezar desde el principio en cualquier momento.
+
+<<button [[Empezar|Abril]]>><</button>><br><br>
+
+:: Abril 
 <<audio ":all" stop>>
 <<toggleclass "body" "autumn">>
 !!! Abril
@@ -48,7 +51,6 @@ Y yo, lo que podría responderle: //Algunos recuerdos duelen.//
 
 <<button [[>>|Mayo]]>><</button>><br><br>
 
-/% 1227 %/
 :: Mayo																	
 <<audio ":all" stop>>
 <<toggleclass "body" "winter">>
@@ -80,11 +82,8 @@ Cuando Julieta se fue, me quedé un rato largo sentado con el papel en la mano. 
 
 Después pensé en [[Dardo Rocha]].
 
-
-
 <<button [[>>|Principios de septiembre]]>><</button>><br><br>
 
-/% 28 %/
 :: Principios de septiembre													
 <<audio ":all" stop>>
 <<audio "musicbox-slow" play>>
@@ -99,14 +98,39 @@ Ana está viviendo conmigo. Al principio quedamos en que iba a pasar cada tanto 
 
 Tiene esa forma de decir sin decir, de no terminar las frases. Lo heredó de @@.borr;Susana@@ y Julieta, a su vez, lo heredó de ella. “Papá...”, “Abuelo...”, y ya está todo dicho, aparentemente.
 
+La verdad es que tiene razón. No estoy bien. No es sólo la falta de coordinación física (aunque ahora tengo más cuidado con el té). El otro día releí ese viejo poema. Parecía que lo hubiera escrito [[un extraño.|Poema borroso]] 
 
+Esta mañana, Ana se puso a barrer y a limpiar las telarañas del techo. Ya no me deja hacerlo, pero, a decir verdad, ella tampoco lo hace con demasiada frecuencia. 
 
+--Hoy tenemos visitas --dijo, sin darme tiempo a hacer el comentario chistoso que tenía pensado. 
+
+--¿Quién viene? 
+
+--@@.borr;Eduardo.@@
+
+--¿Quién? 
+
+Ana se dio vuelta y me miró con algo de irritación. O extrañeza. O preocupación. Nunca fui bueno para leer las caras de la gente.
+
+--Tu hermano --dijo--. Eduardo. 
+
+--Ah. 
+
+Mi hermano se llama Eduardo. Yo me llamo Nicolás. A veces me olvido del nombre de mi hija: @@.borr;Ana.@@ La mente me juega malas pasadas. Voy a buscar los datos del pasado y me encuentro con que el agua inundó y deshizo los recuerdos. Como en la bóveda de la piedra fundacional de La Plata. A veces temo que en realidad sea como esa otra bóveda, la de Al Capone, la que abrieron en 1986. Creían que iban a encontrar dinero, armas, cadáveres: no había nada. Quizás el pasado no existe, quizás nunca hubo nada ahí.
+
+Julieta vino varias veces. Está siempre ocupada y siempre alegre. Quién diría que los dos estados son compatibles. Parece que yo soy lo único que la preocupa. El otro día le pregunté por su novio.
+
+--¿Y Javier? ¿Sigue estudiando? 
+
+--Abuelo, Javier no es más mi novio. Yo me casé hace tres años. Con @@.borr;Martín@@. ¿Te acordás de @@.borr;Martín@@? 
+
+--Ah, sí, sí.
 
 
 
 <<button [[>>|Fines de septiembre]]>><</button>><br><br>
 
-/% 0 %/
+
 :: Fines de septiembre														
 <<audio ":all" stop>>
 <<toggleclass "body" "spring2">>
@@ -143,8 +167,47 @@ Corría 1969. Era difícil vivir en la Argentina. Pero nosotros nos sentíamos i
 
 <<button "Volver">><<script>>Engine.backward();<</script>><</button>><br><br>
 
+
 /% 725 %/
 :: Poema
+<<audio ":all" stop>>
+<<toggleclass "body" "paper">>
+<pre>
+''Los elegidos''
+
+en ese momento son
+más que garcías vitales marcuccis
+superan toda noción de itzcovichidad o fernandeza
+cualquier medida de perugorría de éste o del otro lado
+marcucciando por aquí marcucciando por allá
+es un instante que tiene dueño
+RedacTeam Redac Boys o incluso
+Redac's way
+
+con sus grises acometidas
+sus ocultas o francas colisiones
+sus avances y retrocesos
+son
+a qué dudarlo
+guardianes de nuestra propia y personal valla
+//centroforwards// del Ser
+toros Garimaldis del nuevo siglo
+fiósofos del Arco primigenio
+
+mas
+¿podrían ser --pregunto--
+la delantera de su propio destino?
+
+engordan a la vida
+y están listos
+               tal vez
+                       para comérsela.
+</pre>
+
+<<button "Volver">><<script>>Engine.backward();<</script>><</button>><br><br>
+
+/% 725 %/
+:: Poema borroso
 <<audio ":all" stop>>
 <<toggleclass "body" "paper">>
 <pre>
@@ -154,7 +217,7 @@ en ese momento son
 más que @@.borr;garcía@@s @@.borr;vitale@@s @@.borr;marcucci@@s
 superan toda noción de @@.borr;itzcovich@@idad o @@.borr;fernandez@@a
 cualquier medida de @@.borr;perugorría@@ de éste o del otro lado
-@@.borr;marcucci@@ando por aquí @@.inv;marcucci@@ando por allá
+@@.borr;marcucci@@ando por aquí @@.borr;marcucci@@ando por allá
 es un instante que tiene dueño
 RedacTeam Redac Boys o incluso
 Redac's way
@@ -180,6 +243,19 @@ y están listos
 </pre>
 
 <<button "Volver">><<script>>Engine.backward();<</script>><</button>><br><br>
+
+:: Dardo Rocha
+<<toggleclass "body" "laplata">>
+[img[piedra.jpg]]
+
+En 1982, cuando la ciudad de La Plata cumplió cien años, un grupo de excavadores se instaló en el centro de la Plaza Moreno para desenterrar la piedra fundamental de la ciudad. Eran instrucciones del fundador, Dardo Rocha: la bóveda que albergaba la piedra era una cápsula del tiempo, un repositorio de objetos que debían ser desenterrados un siglo exacto después de la fundación. Entre esos objetos estaba el acta fundacional, varias medallas que pertenecieron a miembros de logias masónicas que participaron en el proyecto y la construcción de la metrópoli y otros documentos que, según la leyenda, correspondían a varios de estos grupos de masones. Habían sido introducidos en una caja de plomo soldada que, a su vez, fue metida dentro de otra caja de cemento. 
+
+Pero sólo las medallas estaban intactas. A lo largo de cien años, el agua se había filtrado por los huecos de la caja exterior y también por las fisuras del contenedor metálico, cuya soldadura era imperfecta. De aquellos testimonios del pasado quedaba sólo una pulpa ilegible. 
+
+Eso es la memoria: un contenedor de solidez engañosa. 
+
+<<button "Volver">><<script>>Engine.backward();<</script>><</button>><br><br>
+
 
 :: UserStylesheet[stylesheet]
 @import url('https://fonts.googleapis.com/css2?family=Merriweather');
