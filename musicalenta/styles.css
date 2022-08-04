@@ -10,13 +10,13 @@ border-color: transparent;
 //#menu, #ui-bar-tray { display: none; }
 body { color: white; background-color: #eee; 
        font-family: 'Merriweather'; 
-       margin: 0 15%; 
+       margin: 0 10%; 
        }
 a { font-weight: bold; color: white; background: #224; 
     text-decoration: underline; padding: 3px; }
 a:hover { color: black; background: white; }
 button { float: right; background: white; color: black; }
-.borr { filter: blur(1px); }
+.borr { filter: blur(2px); }
 .inv { opacity: 0; }
 .passage { background: rgba(0, 0, 0, 0.7); 
            padding: 10px 30px; 
@@ -29,10 +29,12 @@ button { float: right; background: white; color: black; }
 }
 .centered { text-align: center; }
 
+/* START */
+.start { background: url("winter.jpg")        fixed center center / cover no-repeat; 
+          color: white; }
 /* AUTUMN */
 .autumn { background: url("hoja.jpg")        fixed center center / cover no-repeat; 
           color: white; }
-/* PAPER */
 /* WINTER */
 .winter { background: url("lluvia.jpg")      fixed center center / cover no-repeat; 
           color: white; }
@@ -48,6 +50,11 @@ button { float: right; background: white; color: black; }
 .musica { background: url("cordobazo.jpg")   fixed center center / cover no-repeat; 
           // filter: brightness(50%); 
           color: white; }
+/* LAPLATA */
+.laplata { background: url("hueco.jpg")   fixed center center / cover no-repeat; 
+          // filter: brightness(50%); 
+          color: white; }
+/* PAPER */
 .paper { background: url("paper.jpg")        fixed center center / cover no-repeat; 
           color: black; }
 /* ---------------------------------------------------------- */
