@@ -88,7 +88,7 @@ Después pensé en [[Dardo Rocha]].
 :: Principios de septiembre													
 <<audio ":all" stop>>
 <<audio "musicbox-slow" play>>
-<<toggleclass "body" "spring">>
+<<toggleclass "body" "spring1">>
 !!! Principios de septiembre
 
 Ana está viviendo conmigo. Al principio quedamos en que iba a pasar cada tanto para ver cómo estaba. Eso fue en julio, cuando pasó lo del té y me tuvo que llevar al hospital. Después empezó a venir todos los días un rato. Ahora ya está instalada acá. 
@@ -97,7 +97,7 @@ Ana está viviendo conmigo. Al principio quedamos en que iba a pasar cada tanto 
 
 --Papá... 
 
-Tiene esa forma de decir sin decir, de no terminar las frases. Lo heredó de @@borr;Susana@@ y Julieta, a su vez, lo heredó de ella. “Papá...”, “Abuelo...”, y ya está todo dicho, aparentemente.
+Tiene esa forma de decir sin decir, de no terminar las frases. Lo heredó de @@.borr;Susana@@ y Julieta, a su vez, lo heredó de ella. “Papá...”, “Abuelo...”, y ya está todo dicho, aparentemente.
 
 
 
@@ -109,8 +109,7 @@ Tiene esa forma de decir sin decir, de no terminar las frases. Lo heredó de @@b
 /% 0 %/
 :: Fines de septiembre														
 <<audio ":all" stop>>
-<<audio "musicbox-end" play>>
-<<toggleclass "body" "spring">>
+<<toggleclass "body" "spring2">>
 !!! Fines de septiembre
 
 --Ana me está cuidando. 
@@ -121,11 +120,18 @@ Tiene esa forma de decir sin decir, de no terminar las frases. Lo heredó de @@b
 /% 18 %/
 :: Principios de octubre													
 <<audio ":all" stop>>
+<<audio "musicbox-end" play>>
 <<toggleclass "body" "outside">>
+!!! Principios de octubre
 
 Salimos al sol.
 
-<<button "▶">><<audio "musicbox-orig" play>><</button>><br><br>
+@@.centered;
+''Fin.''
+@@
+
+<<button [[Reiniciar|Start]]>><</button>>
+/* <<button "▶">><<audio "musicbox-orig" play>><</button>><br><br> */
 
 /% 537 %/
 :: Caja de música															

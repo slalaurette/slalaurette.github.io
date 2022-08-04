@@ -1,4 +1,4 @@
 @echo off
-tweego musica.tw -o (musica).html
+tweego musica.tw -o index.html
 
 

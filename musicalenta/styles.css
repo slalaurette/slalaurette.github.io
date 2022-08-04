@@ -27,40 +27,29 @@ button { float: right; background: white; color: black; }
     height: auto;
     margin: 0 auto;
 }
-.centered { 
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto;
-}
+.centered { text-align: center; }
+
 /* AUTUMN */
-.autumn { background: url("hoja.jpg") fixed center center / cover no-repeat; 
-          // filter: brightness(50%); 
+.autumn { background: url("hoja.jpg")        fixed center center / cover no-repeat; 
           color: white; }
 /* PAPER */
 /* WINTER */
-.winter { background: url("lluvia.jpg") fixed center center / cover no-repeat; 
-          // filter: brightness(50%); 
+.winter { background: url("lluvia.jpg")      fixed center center / cover no-repeat; 
           color: white; }
-.paper { background: url("paper.jpg")
-          fixed center center / cover no-repeat; 
-          // filter: brightness(50%); 
-          color: black; }
 /* SPRING */
-.spring { background: url("panadero.jpg")
-          fixed center center / cover no-repeat; 
-          // filter: brightness(50%); 
-          color: white; }
+.spring1 { background: url("panadero.jpg")   fixed center center / cover no-repeat; 
+           color: white; }
+.spring2 { background: url("arboles.jpg")    fixed center center / cover no-repeat; 
+           color: white; }
 /* OUTSIDE */
-.outside { background: url("florespejo.jpg")
-          fixed center center / cover no-repeat; 
-          // filter: brightness(50%); 
+.outside { background: url("florespejo.jpg") fixed center center / cover no-repeat; 
           color: white; }
 /* MUSICA */
-.musica { background: url("cordobazo.jpg")
-          fixed center center / cover no-repeat; 
+.musica { background: url("cordobazo.jpg")   fixed center center / cover no-repeat; 
           // filter: brightness(50%); 
           color: white; }
+.paper { background: url("paper.jpg")        fixed center center / cover no-repeat; 
+          color: black; }
 /* ---------------------------------------------------------- */
 .paper .passage { 
 	background: rgba( 255, 255, 255, 0.5 ); 
