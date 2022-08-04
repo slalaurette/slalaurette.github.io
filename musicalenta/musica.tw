@@ -84,11 +84,11 @@ Después pensé en [[Dardo Rocha]].
 
 <<button [[>>|Principios de septiembre]]>><</button>><br><br>
 
-:: Octubre
+:: Principios de septiembre
 <<audio ":all" stop>>
 <<audio "musicbox-slow" play>>
 <<toggleclass "body" "spring1">>
-!!! Principios de septiembre
+!!! Octubre
 
 Ana está viviendo conmigo. Al principio quedamos en que iba a pasar cada tanto para ver cómo estaba. Eso fue en agosto, cuando pasó lo del té y me tuvo que llevar al hospital. Después empezó a venir todos los días un rato. Ahora ya está instalada acá. 
 
@@ -121,10 +121,10 @@ Mi hermano se llama Eduardo. Yo me llamo Nicolás. A veces me olvido del nombre 
 <<button [[>>|Fines de septiembre]]>><</button>><br><br>
 
 
-:: Enero
+:: Fines de septiembre
 <<audio ":all" stop>>
 <<toggleclass "body" "spring2">>
-!!! Fines de septiembre
+!!! Enero
 
 Julieta vino varias veces. Está siempre ocupada y siempre alegre. Quién diría que los dos estados son compatibles. Parece que yo soy lo único que la preocupa, aunque no me lo dice. El otro día le pregunté por su novio.
 
@@ -149,11 +149,11 @@ Tengo la impresión de que cometí errores, de que las cosas me salieron mal. Pe
 <<button [[>>|Principios de octubre]]>><</button>><br><br>
 
 
-:: Marzo
+:: Principios de octubre
 <<audio ":all" stop>>
 <<audio "musicbox-end" play>>
 <<toggleclass "body" "outside">>
-!!! Principios de octubre
+!!! Marzo
 
 La chica vino otra vez. Es muy atenta. Quisiera poder agradecerle como corresponde. Ana le agradece por mí. Dice que me conoce, que si hago memoria yo también la voy a reconocer. Ayer me mostró una foto de ella con su familia y me dijo que todos me mandan saludos. 
 
@@ -179,6 +179,9 @@ Una caja de música.
 
 Abre la puerta de la casa, dejando que entre la luz, y vuelve a donde estoy yo. Agarra las manijas de la silla de ruedas y empieza a empujar suavemente.
 
+[img[music-box-3268714_640.png]]
+<<button "▶">><<audio ":all" stop>><<audio "musicbox-orig" play>><</button>><br><br>
+
 --Sí, me acuerdo.
 
 Me acuerdo de la caja y me acuerdo de la música. Me acuerdo de que hace mucho tiempo se la regalé a alguien. No me acuerdo a quién. Me llega el eco de días felices, de promesas, de peleas, de un desamor. Pero es como un viento silencioso que no existe. Lo que sí recuerdo es la sonrisa. Una sonrisa tan espontánea, tan abierta, que nunca podría olvidarla.
@@ -192,9 +195,7 @@ Salimos al sol.
 @@
 
 <<button [[Reiniciar|Start]]>><</button>>
-/* <<button "▶">><<audio "musicbox-orig" play>><</button>><br><br> */
 
-/% 537 %/
 :: Caja de música															
 <<audio "musicbox-orig" play>>
 <<toggleclass "body" "musica">>
